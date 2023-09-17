@@ -1,0 +1,17 @@
+{
+  "name": "birthday-basic",
+  "version": "1.0.0",
+  "description": "这是我最开始写的三个静态网页，你可以将其定制之后送给自己的朋友/对象/送完还是朋友的朋友/送完就变成对象的朋友，2333",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node  js\\index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "window": "^4.2.7"
+  }
+}
